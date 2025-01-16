@@ -1,0 +1,13 @@
+fastapi
+pydantic
+uvicorn
+langchain
+langchain-huggingface
+transformers
+faiss-cpu
+langchain-ollama
+langchain-community
+unstructured
+pdfminer.six
+openpyxl
+pandas
