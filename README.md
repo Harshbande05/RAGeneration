@@ -9,11 +9,13 @@ Follow the steps below to set up and run the project.
 
     ```bash
     pip install -r requirements.txt
-
+    
+    ```
 ## **Step2**: Start the application using Uvicorn:
 
     ```bash
     uvicorn main:app
+    ```
 
 ## **Step3**: Access the API Documentation
 
