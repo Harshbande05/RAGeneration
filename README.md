@@ -14,7 +14,7 @@ Follow the steps below to set up and run the project.
     uvicorn main:app
 
 ## **Step3**: Access the API Documentation
-    Open your browser and navigate to: 
+    - Open your browser and navigate to: 
     
     http://127.0.0.1:8000/docs
 
