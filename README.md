@@ -1,6 +1,13 @@
 # RAG
 This project is a Retrieval-Augmented Generation (RAG) Backend built using FastAPI. It provides APIs for training document embeddings and performing inference, enabling advanced question-answering systems powered by vector search and pre-trained language models.
 
+# How to Use:
+- **Step1**: pip install -r requirements.txt
+
+- **Step2**: uvicorn main:app
+
+- **Step3**: On browser search http://127.0.0.1:8000/docs
+
 # Technologies Used:
 **FastAPI:**
 - A modern web framework for building APIs with Python, ensuring high performance and easy scalability.
